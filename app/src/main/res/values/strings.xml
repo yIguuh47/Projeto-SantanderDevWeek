@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Santander</string>
+    <string name="txt_saldo_disponivel">Saldo disponivel</string>
+    <string name="txt_saldo_limite">Saldo - Limite</string>
+    <string name="txt_ver_extrato">Ver Extrato</string>
+    <string name="txt_pagar">Pagar</string>
+    <string name="txt_id_santander">ID Santander</string>
+    <string name="txt_recarregar">Recarregar</string>
+    <string name="txt_cart_o_final">Cartão Final</string>
+    <string name="txt_conheca_conta">Conheça a conta Santander</string>
+    <string name="title_activity_view_maps">Map</string>
+    <string name="title_activity_view_conta">ViewConta</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="ag_ncias_e_caixas">Agências e caixas</string>
+    <string name="atendimento_pela_ag_ncia">Atendimento pela agência</string>
+    <string name="veja_aqui_as_op_es_de_atendimento">Veja aqui as opções de atendimento</string>
+    <string name="outras_op_es">Outras opções</string>
+    <string name="avaliar_aplicativo">Avaliar aplicativo</string>
+    <string name="termos_de_uso">Termos de uso</string>
+    <string name="atendimento">Atendimento</string>
+    <string name="conhe_a_tamb_m">Conheça também</string>
+    <string name="whay">Whay</string>
+    <string name="gerencie_seus_cart_es">Gerencie seus cartões</string>
+    <string name="esfera">Esfera</string>
+    <string name="redes_de_parcerias_do_santander">Redes de parcerias do Santander</string>
+    <string name="toro_investimentos">Toro Investimentos</string>
+    <string name="invista_f_cile_sem_corretaem">Invista fácile sem corretaem</string>
+    <string name="sim">Sim</string>
+    <string name="emprestimo_rapido_e_100_diital">Emprestimo rapido e 100% diital</string>
+    <string name="emdia">emDia</string>
+    <string name="negocie_dividas_sem_complica_es">Negocie dividas sem complicações</string>
+    <string name="acessar_sua_conta">Acessar sua conta</string>
+    <string name="lembrar_meu_cpf">Lembrar meu CPF</string>
+    <string name="pagar_ou_cobrar">Pagar ou cobrar</string>
+    <string name="avalie_nosso_aplicativo">Avalie nosso aplicativo</string>
+    <string name="avaliar">Avaliar</string>
+    <string name="ol">Olá,</string>
+</resources>
